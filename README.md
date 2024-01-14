@@ -1,5 +1,6 @@
 # soluslinux
 ![logo](solus.png)
+
 Automated install of my y apps for Solus Linux
 
 ## Compatibilidad con archivos RAW:
