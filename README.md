@@ -22,5 +22,5 @@ MimeType=image/png;image/jpeg;image/bmp;image/x-bmp;image/x-MS-bmp;image/gif;ima
   - ```./vncinstall```
 
 ## WhatsApp ZapZap
-	- ```flatpak install flathub com.rtosta.zapzap```
-	- ```flatpak remote-add --if-not-exists flathub com.rtosta.zapzap```
+  - ```flatpak install flathub com.rtosta.zapzap```
+  - ```flatpak remote-add --if-not-exists flathub com.rtosta.zapzap```
